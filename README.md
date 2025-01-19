@@ -1,1 +1,1 @@
-New to programing and python thses are new/broing projects to do simple task. 
+New to programing and python these are broing projects to do simple tasks.
